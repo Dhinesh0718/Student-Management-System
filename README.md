@@ -61,30 +61,11 @@ A desktop-based application developed using **Java Swing** and **MySQL** to mana
    DriverManager.getConnection(
        "jdbc:mysql://localhost:3306/studentdb",
        "root",
-       "your-password"
+       "sql123"
    );
    ```
 
 5. Run `StudentGUI.java`
-
----
-
-## 🎯 Key Highlights
-
-* Clean and user-friendly GUI
-* Full CRUD operations
-* Real-time database integration
-* Beginner-friendly project with practical implementation
-
----
-
-## 📌 Future Improvements
-
-* Add table view instead of text area
-* Export data to Excel
-* Add user authentication system
-* Improve UI with modern design
-
 ---
 
 ## 👨‍💻 Author
